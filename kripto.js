@@ -74,7 +74,7 @@ const enkripsi = encrypt('KriPtoGraFI')
 // fungsi utama untuk kuis
 async function main() {
     console.log('======================================')
-    console.log('   TEKA-TEKI KRIPTOGRAFI SEFERHANA    ')
+    console.log('   TEKA-TEKI KRIPTOGRAFI SEDERHANA    ')
     console.log('======================================')
     console.log('')
 
@@ -82,7 +82,7 @@ async function main() {
     console.log('Soal 1. SWAP REVERSE WORD')
     console.log('AKIl > Lika')
     console.log('Chipertext: DLROw OLLEh')
-    console.log('Tugas: Deckripsi pesan diatas')
+    console.log('Tugas: Dekripsi pesan diatas')
         const soal1 = await input('Jawaban Kamu: ')
         if (soal1 === 'Hello World') {
             console.log('Selamat kamu benar!');
