@@ -43,7 +43,7 @@ enkripsi = encrypt('KriPtoGraFI')
 
 
 print('======================================')
-print('   TEKA-TEKI KRIPTOGRAFI SEFERHANA    ')
+print('   TEKA-TEKI KRIPTOGRAFI SEDERHANA    ')
 print('======================================\n')
 
 while True:
